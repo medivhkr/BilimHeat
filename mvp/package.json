@@ -1,0 +1,11 @@
+{
+  "name": "mvp",
+  "main": "index.js",
+  "scripts": {
+    "main": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "sqlite3": "^5.1.7"
+  }
+}
